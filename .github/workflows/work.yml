@@ -35,6 +35,6 @@ jobs:
         repo_token: "${{ secrets.GITHUB_TOKEN }}"
         automatic_release_tag: "jar"
         prerelease: true
-        title: "Mineralgenerator 自动构建版本"
+        title: "Mcmmo 自动构建版本"
         files: |
            target/*
